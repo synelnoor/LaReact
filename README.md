@@ -19,6 +19,8 @@ ReactJSLaravelTutorial  >> resources  >>  assets  >>   js  there is one folder a
 The folder name is components, which is react component and the second file is app.js other file is bootstrap.js
 * Go to the resources  >>  views  >>  welcome.blade.php file and copy the following code to it. Remove the existing code.
  with 
+ 
+ 
   <div id="example"></div>
   <script src="{{asset('js/app.js')}}" ></script>
   
